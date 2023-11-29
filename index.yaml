@@ -10,7 +10,7 @@ entries:
     type: application
     urls:
     #- git@github.com:mllick/chart-k8s.git/datascientest-0.1.0.tgz
-    -  https://github.com/mllick/chart-k8s.git/datascientest-0.1.0.tgz
+    -  datascientest/datascientest-0.1.0.tgz
     version: 0.1.0
 generated: "2023-11-28T21:09:11.01766004Z"
 
